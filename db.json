@@ -2,6 +2,60 @@
   "data": {
     "folders": []
   },
-  "folders": [],
-  "notes":[]
+  "folders": [
+    {
+      "id": 1,
+      "folderName": "folderA",
+      "createdDate": "2019-10-23T04:51:08.608Z"
+    },
+    {
+      "id": 2,
+      "folderName": "folderK",
+      "createdDate": "2019-10-23T04:52:33.560Z"
+    }
+  ],
+  "notes": [
+    {
+      "folderId": 1,
+      "title": "Note Name",
+      "subTitle": "first line",
+      "content": "second line",
+      "modifiedDateTime": "2019-10-23T04:52:19.373Z",
+      "id": 1
+    },
+    {
+      "folderId": 1,
+      "title": "Second Note",
+      "subTitle": "Addition text",
+      "content": "",
+      "modifiedDateTime": "2019-10-23T04:53:07.562Z",
+      "id": 2
+    },
+    {
+      "folderId": 1,
+      "title": "",
+      "subTitle": "asdsds",
+      "content": "asdasdasdasdasda",
+      "modifiedDateTime": "2019-10-23T04:55:13.000Z",
+      "id": 3
+    },
+    {
+      "folderId": 2,
+      "title": "New note",
+      "subTitle": "No addition textn",
+      "content": "n",
+      "modifiedDateTime": "2019-10-23T04:53:56.031Z",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "folderId": 2,
+      "title": "New note",
+      "subTitle": "No addition text",
+      "content": "",
+      "modifiedDateTime": "2019-10-23T04:53:46.914Z"
+    }
+  ],
+  "folderList": [],
+  "noteList": []
 }
